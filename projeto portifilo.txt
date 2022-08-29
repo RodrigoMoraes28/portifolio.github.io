@@ -1,0 +1,17 @@
+O projeto portifolio precisa ser algo pessoal nosso, então quero que ao final aqui seja a informação pessoal de vocês
+uma foto que represente você (sua foto, ou uma ilustração, ou nenhuma), um nome ou marca sua (no lugar do LOBO ali em cima escrito)
+
+
+existem 2 formas de fazer esse projeto :
+
+1- voce pegar, abrir o figma e tentar recriar isso com o que você aprendeu de codigo
+sem ver nada da aula daqui pra frente e simplismente se virar pra tentar chegar a esse resultado daqui ou algo parecido
+com isso
+
+a segunda forma é:
+
+2- seguir exatamente o que eu vou fazer agora nas próximas aulas e depois ir modificando com o que for necessário para tornar
+o site seu, então mudando o texto, mudando o conteudo, mudando 1 estilo ou outro, cores e outras coisas
+
+
+3- outra forma seria ja ir fazendo o site como se fosse o seu mas ir seguindo a aula aqui do que eu for mostrando
